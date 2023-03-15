@@ -8,4 +8,5 @@ Sou muito fã de basquete, jogo até hoje e acompanho a liga, temporada após te
 
 ## Projetos:
 - [LeBron James: maior pontuador da história da NBA](Notebooks/lebron-james.ipynb)
+
 ![](assets/bot-reps-nba.jpg)
